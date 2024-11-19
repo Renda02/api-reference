@@ -1,9 +1,9 @@
-### Types of questions Assist can answer <a href="#what-type-of-questions-can-assist-answer" id="what-type-of-questions-can-assist-answer"></a>
+### Les types de questions peuvent répondre à <a href="#what-type-of-questions-can-assist-answer" id="what-type-of-questions-can-assist-answer"></a>
 
-Assist answers your questions using Nexthink Infinity documentation, which includes in-product, and online documentation sources.&#x20
+Aidez à répondre à vos questions en utilisant la documentation Nexthink Infinity, qui inclut les sources de documentation en produit et en ligne.&#x20
 
-Question examples:
+Exemples de questions:
 
-- _How to configure a webhook?_
-- _What is the difference between hard and soft navigations?_&#x20
-- _What is the limit of campaigns I can create in Workplace Experience?_&#x20
+- _Comment configurer un webhook ?_
+- _Quelle est la différence entre les navigations dures et douces ?_&#x20
+- _Quelle est la limite des campagnes que je peux créer dans Expérience en milieu de travail ?_&#x20
