@@ -1,139 +1,139 @@
-# Using Nexthink Assist
+# Utiliser l'aide de Nexthink Assist
 
-Nexthink Assist is the unified entry point to managing digital employee experience across the entire Infinity platform. Embedded directly into the search navigation, Nexthink Assist uses the latest large language models from OpenAI and Anthropic to help IT teams see, diagnose and fix DEX challenges instantly through the power of Generative AI. In particular, Nexthink Assist enables users to perform contextual searches across product documentation, extract data on device performance, user sessions, and applications, and quickly create Nexthink campaigns using natural language requests.
+Nexthink Assist est le point d'entrée unifié de la gestion de l'expérience des employés numériques sur l'ensemble de la plate-forme Infinity. Intégrée directement dans la navigation de recherche, Nexthink Assist utilise les derniers grands modèles de langues d'OpenAI et Anthropic pour aider les équipes informatiques à voir, diagnostiquer et corriger instantanément les défis DEX grâce à la puissance de l'IA générative. En particulier, Nexthink Assist permet aux utilisateurs d'effectuer des recherches contextuelles dans la documentation des produits, extraire des données sur les performances de l'appareil, les sessions utilisateur et les applications, et créer rapidement des campagnes Nexthink en utilisant des requêtes de langage naturel.
 
 <figure><img src="../../.gitbook/assets/AboutAssist.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Nexthink Assist is currently in **Beta** and is continually improving. As it evolves, it may occasionally provide information that requires verification. Nexthink recommends confirming your results to ensure accuracy while using Nexthink Assist.
+L'Assistance Nexthink est actuellement en **bêta** et s'améliore constamment. Au fur et à mesure de son évolution, il peut occasionnellement fournir des renseignements qui nécessitent une vérification. Ensuite, nous vous recommandons de confirmer vos résultats pour vous assurer de l'exactitude lors de l'utilisation de l'aide Nexthink Assist.
 {% endhint %}
 
-## Getting started with Nexthink Assist <a href="#how-to-get-started-with-assist" id="how-to-get-started-with-assist"></a>
+## Commencer avec l'aide de Nexthink Assist <a href="#how-to-get-started-with-assist" id="how-to-get-started-with-assist"></a>
 
-First, ensure that your role allows you to view Nexthink Assist\*\*.\*\* Refer to the [Permissions](./#permissions) section for more information.&#x20
+Tout d'abord, assurez-vous que votre rôle vous permet de voir l'aide de Nexthink **.** Reportez-vous à la section [Permissions](./#permissions) pour plus d'informations.&#x20
 
-To access Nexthink Assist, select **Nexthink** **Assist** from the main menu.
+Pour accéder à Nexthink Assist, sélectionnez **Nexthink** **Assister** dans le menu principal.
 
 <figure><img src="../../.gitbook/assets/Assist - 1721048792.png" alt=""><figcaption></figcaption></figure>
 
-The Nexthink Assist window appears, allowing you to type your text into the search bar. Use the following options to get the information you need:
+La fenêtre Nexthink Assist s'affiche, vous permettant de taper votre texte dans la barre de recherche. Utilisez les options suivantes pour obtenir les informations dont vous avez besoin :
 
-- **Search**: Type text in the search bar **without hitting Enter** to conduct searches across various parameters. Refer to the [Using Search](https://docs.nexthink.com/platform/user-guide/search-and-nexthink-assist/using-search) documentation for more information.&#x20
-- **Assist**: Type text in the search bar and **hit Enter** to create investigations and campaigns, or to get answers related to Nexthink Infinity.
+- **Recherche**: Tapez le texte dans la barre de recherche **sans appuyer sur Entrée** pour effectuer des recherches à travers différents paramètres. Consultez la documentation [Utilisation de Search](https://docs.nexthink.com/platform/user-guide/search-and-nexthink-assist/using-search) pour plus d'informations.&#x20
+- **Assistance** : Tapez du texte dans la barre de recherche et **appuyez sur Entrée** pour créer des enquêtes et des campagnes, ou pour obtenir des réponses relatives à Nexthink Infinity.
 
 <figure><img src="../../.gitbook/assets/Assist - 1721114015.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Type at least **3 words** and press the **Enter** key to activate **Assist**. To continue using **Search** in standard mode, type the name of a binary, device, or package.
+Tapez au moins **3 mots** et appuyez sur la touche **Entrée** pour activer **l'assistance**. Pour continuer à utiliser **Search** en mode standard, tapez le nom d'un binaire, d'un périphérique ou d'un paquet.
 {% endhint %}
 
-Use Nexthink Assist to simplify building investigations, streamline campaign creation, and answer your questions about Nexthink Infinity.
+Utilisez Nexthink Assist pour simplifier les enquêtes de construction, simplifier la création de campagnes et répondre à vos questions sur Nexthink Infinity.
 
-- **Ask about Nexthink**: Assist enables contextual search across product documentation to get you started quickly, with the information and context you need.
-- **Query Data**: Assist helps you extract data and quickly find answers about device performance, binaries, user and session data, application information, and more to resolve issues proactively.
-- **Create**: Assist helps you create Nexthink campaigns, making campaign building instantaneous. Compose a quick request in natural language, and watch Nexthink do the rest.
+- **Demandez à propos de Nexthink**: L'assistance active la recherche contextuelle dans la documentation des produits pour vous permettre de démarrer rapidement, avec les informations et le contexte dont vous avez besoin.
+- **Données de requête** : L'assistance vous aide à extraire des données et à trouver rapidement des réponses sur les performances de la console, , les données des utilisateurs et des sessions, les informations des applications et bien plus encore pour résoudre les problèmes de manière proactive.
+- **Créer**: L'aide vous aide à créer des campagnes Nexthink et rend la création de campagnes instantanée. Composez une demande rapide en langage naturel, et regardez Nexthink faire le reste.
 
-In addition to its three main capabilities, Assist answers your questions across all Nexthink Infinity configuration objects available in your environment. Use Assist to get answers about live dashboards, monitors, library packs, and more.
+En plus de ses trois principales capacités, Assistez à répondre à vos questions sur tous les objets de configuration Nexthink Infinity disponibles dans votre environnement. Utilisez Aide pour obtenir des réponses sur les tableaux de bord, les moniteurs, les packs de bibliothèques, et plus encore.
 
 <figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-Once you send your question to Assist, it generates and executes an NQL query, creates a campaign or provides an answer from the documentation.&#x20
+Une fois que vous avez envoyé votre question à Assist, elle génère et exécute une requête NQL, crée une campagne ou fournit une réponse à partir de la documentation.&#x20
 
-Ask follow-up questions on the same topic to keep the current conversation going. To start a conversation from scratch, click the reset button in the top-right corner of the Nexthink Assist window.&#x20
+Posez des questions de suivi sur le même sujet pour maintenir la conversation en cours. Pour démarrer une conversation à partir de zéro, cliquez sur le bouton de réinitialisation dans le coin supérieur droit de la fenêtre d'assistance Nexthink Assist.&#x20
 
 <figure><img src="../../.gitbook/assets/Assist - 1723097609.png" alt=""><figcaption></figcaption></figure>
 
-Imagine that you work for a company with a Sales department in Boston. This department has complained about problems with MS Teams call quality. You decide to investigate this issue using Nexthink Assist. The following documentation sections provide guidelines on using Nexthink Assist with examples related to this use case.
+Imaginez que vous travailliez pour une entreprise avec un département commercial à Boston. Ce service s'est plaint de problèmes avec la qualité des appels MS Teams. Vous décidez d'enquêter sur ce problème en utilisant Nexthink Assist. Les sections de documentation suivantes fournissent des directives sur l'utilisation de Nexthink Assist avec des exemples liés à ce cas d'utilisation.
 
-## Query data with Assist
+## Interroger les données avec l'aide
 
-To identify the cause of the MS Teams call quality issue, ask Assist to _display the average Wi-Fi signal strength per US city sorted in ascending order_ and **hit Enter**. The query that Assist creates immediately reveals that the Boston office has the worst Wi-Fi signal strength.
+Pour identifier la cause du problème de qualité des appels MS Teams, demander à l'aide de _afficher la force moyenne du signal Wi-Fi par ville américaine triée par ordre croissant_ et **appuyez sur Entrée**. La requête que crée Assist révèle immédiatement que le bureau de Boston a la pire force de signal Wi-Fi.
 
 <figure><img src="../../.gitbook/assets/Assist - 1723097426.png" alt=""><figcaption></figcaption></figure>
 
-Continue the conversation with Assist in the same window and ask for a _list of Sales department employees in Boston_. Then, click on **View in Investigations** to access the **Investigations** module and get the full list. Refer to the [Visual editor](https://docs.nexthink.com/platform/user-guide/investigations/creating-investigations/visual-editor) and [NQL editor](https://docs.nexthink.com/platform/user-guide/investigations/creating-investigations/nql-editor) documentation for more information about Investigations.
+Poursuivez la conversation avec Assist dans la même fenêtre et demandez une _liste d'employés du service commercial à Boston_. Ensuite, cliquez sur **Voir dans les Enquêtes** pour accéder au module **Enquêtes** et obtenir la liste complète. Reportez-vous à la documentation [Éditeur Visuel](https://docs.nexthink.com/platform/user-guide/investigations/creating-investigations/visual-editor) et à [Éditeur NQL](https://docs.nexthink.com/platform/user-guide/investigations/creating-investigations/nql-editor) pour plus d'informations sur Investigations.
 
 <figure><img src="../../.gitbook/assets/Assist - 1723097541.png" alt=""><figcaption></figcaption></figure>
 
-### **Data out of Assist scope**
+### **Données hors portée de l'assistance**
 
-[Nexthink NQL data model](../nexthink-query-language-nql/nql-data-model.md) provides an overview of the data Nexthink collects. Assist currently supports most of the NQL data model, **excluding** custom fields and the below list of fields\*\*:\*\*
+[Modèle de données NQL Nexthink ](../nexthink-query-language-nql/nql-data-model.md) fournit un aperçu des données collectées par Nexthink . L'assistance prend actuellement en charge la plupart du modèle de données NQL, **exclut** les champs personnalisés et la liste des champs ci-dessous\*\*:\*\*
 
-| Namespace                                | Unsupported tables                                                                                                     |
-| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| application                              | network\_application                                                                             |
-| alert                                    | impact                                                                                                                 |
-| device                                   | device/local\_admins                                                                             |
-| remote\_action     | execution\_summary                                                                               |
-| service                                  | all                                                                                                                    |
-| software\_metering | all                                                                                                                    |
-| connection                               | <p>udp_event<br>tcp_event</p>                                                                                          |
-| session                                  | <p>connect<br>disconnect<br>lifecycle_event<br>lock<br>logout<br>unlock</p>                                            |
-| web                                      | <p>error_summary<br>event_summary<br>transaction_summary<br>page_view_summary<br>page_view/detailed_page_load_time</p> |
-| workflow                                 | execution\_summary                                                                               |
+| Espace de noms                         | Tables non prises en charge                                                                                            |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| application                            | réseau\_application                                                                              |
+| Alerte                                 | impact                                                                                                                 |
+| Appareil                               | appareil/local\_admins                                                                           |
+| action\_distante | exécution\_résumé                                                                                |
+| Service                                | Tous                                                                                                                   |
+| logiciel\_mesure | Tous                                                                                                                   |
+| connexion                              | <p>udp_event<br>tcp_event</p>                                                                                          |
+| session                                | <p>connectez<br>déconnectez<br>lifecycle_event<br>verrouillez<br>déconnectez<br>déverrouiller</p>                      |
+| web                                    | <p>error_summary<br>event_summary<br>transaction_summary<br>page_view_summary<br>page_view/detailed_page_load_time</p> |
+| flux de travail                        | exécution\_résumé                                                                                |
 
 {% hint style="info" %}
-The response times of Assist may vary, and occasionally, some Assist-generated queries might not display correctly in the [Visual editor](https://docs.nexthink.com/platform/user-guide/investigations/creating-investigations/visual-editor).
+Le temps de réponse de l'aide peut varier, et il arrive que certaines requêtes générées par l'aide ne s'affichent pas correctement dans [l'éditeur visuel](https://docs.nexthink.com/platform/user-guide/investigations/creating-investigations/visual-editor).
 {% endhint %}
 
-## Create campaigns with Assist
+## Créer des campagnes avec l'aide
 
-Once you have identified the problem with the Wi-Fi signal strength in the Boston office, the next step is notifying all affected employees via a Nexthink campaign.&#x20
+Une fois que vous avez identifié le problème de la puissance du signal Wi-Fi dans le bureau de Boston, la prochaine étape consiste à informer tous les employés concernés par une campagne Nexthink . #x20
 
-Use Assist to _create a campaign to inform employees that the Boston office has Wi-Fi issues._ Assist creates this campaign—questions and answers—according to your instructions.
+Utilisez Aide pour _créer une campagne pour informer les employés que le bureau de Boston a des problèmes de Wi-Fi._ L'assistance crée cette campagne – questions et réponses – selon vos instructions.
 
 <figure><img src="../../.gitbook/assets/Assist - 1723097717.png" alt=""><figcaption></figcaption></figure>
 
-If you would like to improve your campaign, type additional commands into the search bar to provide further guidance.&#x20
+Si vous souhaitez améliorer votre campagne, tapez des commandes supplémentaires dans la barre de recherche pour fournir des conseils supplémentaires. &#x20
 
 <figure><img src="../../.gitbook/assets/Assist - 1723196848.png" alt=""><figcaption></figcaption></figure>
 
-If you are satisfied with the suggested campaign, simply type **Yes** in the search bar to save it as a draft in the **Campaigns** module and define targeted users and the trigger mechanism. Refer to the [Creating Campaigns](https://docs.nexthink.com/platform/user-guide/campaigns/creating-campaigns) documentation for more information on how to finalize a campaign draft and distribute it among selected audiences.&#x20
+Si vous êtes satisfait de la campagne suggérée, tapez simplement **Oui** dans la barre de recherche pour l'enregistrer comme brouillon dans le module **Campagnes** et définissez les utilisateurs ciblés et le mécanisme de déclenchement. Reportez-vous à la documentation [Créer des campagnes](https://docs.nexthink.com/platform/user-guide/campaigns/creating-campaigns) pour plus d'informations sur la façon de finaliser un brouillon de campagne et de le distribuer entre les publics sélectionnés.&#x20
 
-### Types of campaigns Assist can create <a href="#what-type-of-questions-can-assist-answer" id="what-type-of-questions-can-assist-answer"></a>
+### Les types de campagnes d'aide peuvent créer <a href="#what-type-of-questions-can-assist-answer" id="what-type-of-questions-can-assist-answer"></a>
 
-Assist can help you complete the content section for any [type of Nexthink campaign](https://docs.nexthink.com/platform/user-guide/campaigns/creating-campaigns/types-of-campaigns). Examples:
+L'assistance peut vous aider à compléter la section de contenu de n'importe quelle [campagne Nexthin](https://docs.nexthink.com/platform/user-guide/campaigns/creating-campaigns/types-of-campaigns). Exemples:
 
-- _Create a device usage survey_
-- _Create a campaign to inform users about ongoing Wi-Fi issues in our office_
-- _Create an IT satisfaction survey_
+- _Créer une enquête d'utilisation de l'appareil _
+- _Créez une campagne pour informer les utilisateurs des problèmes de connexion Wi-Fi en cours dans notre bureau_
+- _Créer une enquête de satisfaction informatique_
 
-Refer to the [Conducting engaging campaigns](https://docs.nexthink.com/platform/user-guide/campaigns/getting-started-with-campaigns/conducting-engaging-campaigns) documentation for more information about creating effective campaigns.&#x20
+Reportez-vous à la documentation sur les [campagnes engageantes](https://docs.nexthink.com/platform/user-guide/campaigns/getting-started-with-campaigns/conducting-engageing-campaigns) pour plus d'informations sur la création de campagnes efficaces.&#x20
 
-## Ask Assist about Nexthink Infinity
+## Demander de l'aide à propos du Nexthink Infinity
 
-Wi-Fi problems are very common and can occur again. Use one of the monitors available in Nexthink Library to effectively monitor Wi-Fi issues and take action to resolve the issue. Ask Assist how you can enable the monitor in the Alerts module.&#x20
+Les problèmes de connexion Wi-Fi sont très fréquents et peuvent se reproduire. Utilisez l'un des moniteurs disponibles dans la bibliothèque Nexthink pour surveiller efficacement les problèmes de Wi-Fi et prendre des mesures pour résoudre le problème. Demander une aide pour activer le moniteur dans le module Alertes.&#x20
 
 <figure><img src="../../.gitbook/assets/Assist - 1723204902.png" alt=""><figcaption></figcaption></figure>
 
-Assist uses Nexthink Infinity documentation resources to provide the best answer. For further information or instructions, refer to the relevant documentation pages and training linked by Assist at the bottom of its response.
+L'assistance utilise les ressources de la documentation Nexthink Infinity pour fournir la meilleure réponse. Pour de plus amples informations ou instructions, reportez-vous aux pages de documentation pertinentes et aux formations liées par Assist en bas de sa réponse.
 
-### Types of questions Assist can answer <a href="#what-type-of-questions-can-assist-answer" id="what-type-of-questions-can-assist-answer"></a>
+### Les types de questions peuvent répondre à <a href="#what-type-of-questions-can-assist-answer" id="what-type-of-questions-can-assist-answer"></a>
 
-Assist answers your questions using Nexthink Infinity documentation, which includes in-product, and online documentation sources.&#x20
+Aidez à répondre à vos questions en utilisant la documentation Nexthink Infinity, qui inclut les sources de documentation en produit et en ligne.&#x20
 
-Question examples:
+Exemples de questions:
 
-- _How to configure a webhook?_
-- _What is the difference between hard and soft navigations?_&#x20
-- _What is the limit of campaigns I can create in Workplace Experience?_&#x20
+- _Comment configurer un webhook ?_
+- _Quelle est la différence entre les navigations dures et douces ?_&#x20
+- _Quelle est la limite des campagnes que je peux créer dans Expérience en milieu de travail ?_&#x20
 
-## Frequently Asked Questions <a href="#title-text" id="title-text"></a>
+## Foire aux questions <a href="#title-text" id="title-text"></a>
 
 <details>
 
-<summary>I'm getting unexpected answers from Assist. What can I do?</summary>
+<summary>I'm getting unexpected answers from Assist. Que puis-je faire?</summary>
 
-It may be that the answer to your question is based on a topic Nexthink Assist does not support. Refer to the [What type of Investigations can Assist create?](using-nexthink-assist.md#what-type-of-investigations-can-assist-create) section for more details.
+Il se peut que la réponse à votre question soit basée sur un sujet que Nexthink Assist ne supporte pas. Reportez-vous à la section [Quel type d'enquêtes peut aider à créer ?](using-nexthink-assist.md#what-type-of-investigations-can-assist-create) pour plus de détails.
 
-Assist uses natural language to answer your questions. Sometimes, you might observe that Assist cannot respond to your question or that the response is incorrect. Here are some recommendations for how you can best phrase your questions:
+L'assistance utilise le langage naturel pour répondre à vos questions. Parfois, vous pouvez constater que l'Assistance ne peut pas répondre à votre question ou que la réponse est incorrecte. Voici quelques recommandations sur la meilleure façon de formuler vos questions :
 
-- **Be clear and specific**: Provide clear information about the issue you are investigating. Avoid vague or ambiguous questions that may lead to inaccurate results.
-- **Use targeted keywords**: Use relevant keywords related to the problem you are trying to solve whenever possible. This helps Assist in understanding the context and providing more accurate responses.
-- **Frame your questions**: Structure your prompts as questions or specific commands. For example, instead of typing _Find errors in Teams_, try _How many Teams calls had bad quality in the last 24 hours?_
-- **Experiment and iterate**: If you do not get the desired results initially, don't hesitate to refine your prompts. Assist learns and improves over time, so experimenting with different phrasing can help you achieve better outcomes.
+- **Soyez clair et précis** : fournissez des informations claires sur le problème que vous étudiez. Évitez les questions vagues ou ambiguës qui peuvent conduire à des résultats inexacts.
+- **Utilisez des mots-clés ciblés** : Utilisez des mots-clés pertinents liés au problème que vous essayez de résoudre dans la mesure du possible. Cela aide à comprendre le contexte et à fournir des réponses plus précises.
+- **Encadrez vos questions** : Structurez vos instructions sous forme de questions ou de commandes spécifiques. Par exemple, au lieu de taper des erreurs _Find dans Teams_, essayez _Combien d'appels d'équipes ont eu une mauvaise qualité au cours des dernières 24 heures ?_
+- **Expérimentation et itération** : Si vous ne obtenez pas les résultats souhaités initialement, n'hésitez pas à affiner vos demandes. Aider à apprendre et à s'améliorer au fil du temps, donc expérimenter avec des expressions différentes peut vous aider à obtenir de meilleurs résultats.
 
-For more information on effective prompt writing, complete the online course [_How to fast-track work with Nexthink Assist_](https://learn.nexthink.com/courses/how-to-fast-track-work-with-nexthink-assist) available on Nexthink Learn.
+Pour plus d'informations sur l'écriture efficace des prompts, complétez le cours en ligne [_Comment accélérer le travail avec Nexthink Assist_](https://learn.nexthink.com/courses/how-to-fast-track-work-with-nexthink-assist) disponible sur Nexthink Learn.
 
 </details>
 
@@ -141,11 +141,11 @@ For more information on effective prompt writing, complete the online course [_H
 
 <summary>How can I share feedback on Assist with the Nexthink team?</summary>
 
-Help us improve Assist by sharing your feedback using the thumbs-up and thumbs-down icons located in the lower-right corner of the latest response from Assist.
+Aidez-nous à améliorer Aide en partageant vos commentaires en utilisant les icônes pouce-haut et pouce-bas situées dans le coin inférieur droit de la dernière réponse d'Assist.
 
 <summary>As Nexthink admin, can I pilot the usage of Assist before exposing it to a broader user group?</summary>
 
-Yes, Nexthink admins can pilot the usage of Assist by selectively disabling and enabling the Assist permissions of certain roles.&#x20
+Oui, les administrateurs de Nexthink peuvent piloter l'utilisation de l'aide en désactivant sélectivement et en activant les autorisations d'assistance de certains rôles.&#x20
 
 </details>
 
@@ -153,16 +153,16 @@ Yes, Nexthink admins can pilot the usage of Assist by selectively disabling and 
 
 <summary>Does Assist apply View-domain constraints and permissions?</summary>
 
-Yes, the View domain applies to Assist. For example, Nexthink users querying data with Assist will get the same results as running the query in NQL or the Visual editor.&#x20
+Oui, le domaine View s'applique à l'assistance. Par exemple, les utilisateurs de Nexthink interrogeant des données avec Assist obtiennent les mêmes résultats que l'exécution de la requête dans NQL ou dans l'éditeur Visuel.&#x20
 
-Nexthink also enforces permissions before performing a task. For example, to view and use the **Create** campaigns feature in Nexthink Assist, ensure that your role has permission to _edit campaigns_. Without this permission, you cannot create campaigns and will receive the following error message: _You do not have the right permissions to perform this action. Please reach out to your administrator._&#x20
+Ensuite, impose également des autorisations avant d'exécuter une tâche. Par exemple, pour voir et utiliser la fonctionnalité **Créer** des campagnes dans Nexthink Assist, assurez-vous que votre rôle a la permission de _modifier les campagnes_. Sans cette autorisation, vous ne pouvez pas créer de campagnes et vous recevrez le message d'erreur suivant : _Vous n'avez pas les droits suffisants pour effectuer cette action. Veuillez contacter votre administrateur._&#x20
 
 </details>
 
 <details>
 
-<summary>Is Nexthink Assist an add-on product? Does it require an additional license?</summary>
+<summary>Is Nexthink Assist an add-on product? Nécessite une licence supplémentaire?</summary>
 
-Nexthink Assist is an Infinity feature, part of the Workplace Experience core product, and available at no additional charge.
+Nexthink Assist est une fonctionnalité Infinity, qui fait partie du produit de base de Workplace Experience et est disponible sans frais supplémentaires.
 
 </details>
