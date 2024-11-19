@@ -1,0 +1,23 @@
+name: Crowdin Translation Sync
+
+on:
+  push:
+    branches:
+      - main
+    
+    paths:
+      - 'getting-started/**'
+      - 'user-guide/**'
+
+jobs:
+  crowdin_sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Sync with Crowdin
+        uses: crowdin/github-action@v2
+        with:
+          crowdin-api-token: ${{ secrets.CROWDIN_API_TOKEN }}
+          crowdin-project-id: 'your-crowdin-project-id'
