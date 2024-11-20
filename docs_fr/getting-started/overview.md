@@ -10,7 +10,7 @@ L'Assistance Nexthink est actuellement en **bêta** et s'améliore constamment. 
 
 ## Commencer avec l'aide de Nexthink Assist <a href="#how-to-get-started-with-assist" id="how-to-get-started-with-assist"></a>
 
-Tout d'abord, assurez-vous que votre rôle vous permet de voir l'aide de Nexthink **.** Reportez-vous à la section [Permissions](./#permissions) pour plus d'informations.&#x20
+First, ensure that your role allows you to view Nexthink Assist\*\*.\*\* Refer to the [Permissions](./#permissions) section for more information.&#x20
 
 Pour accéder à Nexthink Assist, sélectionnez **Nexthink** **Assister** dans le menu principal.
 
@@ -84,7 +84,7 @@ Utilisez Aide pour _créer une campagne pour informer les employés que le burea
 
 <figure><img src="../../.gitbook/assets/Assist - 1723097717.png" alt=""><figcaption></figcaption></figure>
 
-Si vous souhaitez améliorer votre campagne, tapez des commandes supplémentaires dans la barre de recherche pour fournir des conseils supplémentaires. &#x20
+Si vous souhaitez améliorer votre campagne, tapez des commandes supplémentaires dans la barre de recherche pour fournir des conseils supplémentaires.
 
 <figure><img src="../../.gitbook/assets/Assist - 1723196848.png" alt=""><figcaption></figcaption></figure>
 
