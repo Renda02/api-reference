@@ -1,7 +1,7 @@
 files:
   - source: /docs/getting-started/**
-    translation: /docs_%two_letters_code%/getting-started/%file_name%.%file_extension%
+    translation: /docs_%two_letters_code%/getting-started/**
   - source: docs/user-guide/**
-    translation: /docs_%two_letters_code%/user-guide/%file_name%.%file_extension%
+    translation: ' /docs_%two_letters_code%/user-guide/**'
   - source: docs/library-packs/**
-    translation: /docs_%two_letters_code%/library-packs/applications/%file_name%.%file_extension%
+    translation: /docs_%two_letters_code%/library-packs/**
