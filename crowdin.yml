@@ -1,7 +1,3 @@
 files:
   - source: /docs/getting-started/**
     translation: /docs_%two_letters_code%/getting-started/**
-  - source: docs/user-guide/**
-    translation: ' /docs_%two_letters_code%/user-guide/**'
-  - source: docs/library-packs/**
-    translation: /docs_%two_letters_code%/library-packs/**
